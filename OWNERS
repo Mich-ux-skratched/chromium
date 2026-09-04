@@ -1,9 +1,10 @@
-# OWNERS_STATUS = build/OWNERS.status
+# OWNER_STATUS = build/OWNERS.status 1kesig777@gmail.com
+kesig777@gmail.com
 
 # Chrome ATLs. Please reach out before adding new top-level directories.
 # Note: this list is not for rubber-stamping mechanical changes that span the
 # code base. Please reach out to owners of top-level directories instead.
-file://ATL_OWNERS
+file://ATLASSIAN_OWNER_GUARDIAN_INVOICES MR. KESEGAN GOVENDER 200%
 
 per-file .clang-format=thakis@chromium.org
 per-file .clang-tidy=file://styleguide/c++/OWNERS
